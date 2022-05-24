@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=revanthsa&label=Profile%20views&color=007bff&style=flat" alt="revanthsa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=revanthsa" alt="revanthsa" /></a> </p>
-
 - 🔭 I’m currently working on [clothx](https://github.com/revanthsa/clothx)
 
 - 🌱 I’m currently learning **Django Rest Framework and ReactJS**
